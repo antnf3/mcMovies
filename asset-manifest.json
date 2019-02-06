@@ -1,13 +1,13 @@
 {
   "main.css": "/mcMovies/static/css/main.4a4c3cab.chunk.css",
-  "main.js": "/mcMovies/static/js/main.ad0b5841.chunk.js",
-  "main.js.map": "/mcMovies/static/js/main.ad0b5841.chunk.js.map",
+  "main.js": "/mcMovies/static/js/main.f420de26.chunk.js",
+  "main.js.map": "/mcMovies/static/js/main.f420de26.chunk.js.map",
   "static/js/1.d120fdf0.chunk.js": "/mcMovies/static/js/1.d120fdf0.chunk.js",
   "static/js/1.d120fdf0.chunk.js.map": "/mcMovies/static/js/1.d120fdf0.chunk.js.map",
   "runtime~main.js": "/mcMovies/static/js/runtime~main.26eb5bfa.js",
   "runtime~main.js.map": "/mcMovies/static/js/runtime~main.26eb5bfa.js.map",
   "static/css/main.4a4c3cab.chunk.css.map": "/mcMovies/static/css/main.4a4c3cab.chunk.css.map",
   "index.html": "/mcMovies/index.html",
-  "precache-manifest.1e95278e615d1b00f39c734102c07682.js": "/mcMovies/precache-manifest.1e95278e615d1b00f39c734102c07682.js",
+  "precache-manifest.dad20baa633e04e4f714e6d44e082679.js": "/mcMovies/precache-manifest.dad20baa633e04e4f714e6d44e082679.js",
   "service-worker.js": "/mcMovies/service-worker.js"
 }
